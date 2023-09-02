@@ -3,5 +3,7 @@
 ### header 3
 #### header 4
 ##### header 5
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ###### header 6
 ![Image of Cat](https://octodex.github.com/images/yaktocat.png)
